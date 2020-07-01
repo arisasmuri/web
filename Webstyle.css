@@ -1,0 +1,32 @@
+/*Style Slider*/
+.carousel-item {
+    height: 462px;
+}
+.carousel-item {
+    margin-top: 8px;
+}
+.carousel-item .display-4 {
+    margin-top: -270px;
+}
+.carousel-item hr {
+    border-color: rgb(255, 50, 50);
+    width: 100px;
+    border-width: 3px;
+}
+.carousel-item .btn {
+    background-color: rgb(255, 50, 50);
+    border-color: white;
+    border-radius: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+/*Card Style*/
+.row .card:hover{
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+    transform: scale(1.02);
+}
+.card p {
+    margin-bottom: 1px;
+    margin-top: -10px;
+}
